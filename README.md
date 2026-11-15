@@ -1,3 +1,29 @@
+# Understand-Anything
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+把任意代码转成可探索、可搜索、可提问的交互式知识图谱。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <h1 align="center">Understand Anything</h1>
 
 <p align="center">
